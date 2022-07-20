@@ -45,6 +45,7 @@ Android Studio Chipmunk | 2021.2.1 Patch 1
 Build #AI-212.5712.43.2112.8609683, built on May 18, 2022
 Runtime version: 11.0.12+0-b1504.28-7817840 x86_64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+```
 
 ### Screenshot
 <p align="center">
